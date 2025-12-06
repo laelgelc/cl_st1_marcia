@@ -55,5 +55,7 @@ Cooper ^np++++=Cooper.
 ```
 
 ### Corrective action
+- The issue was reproduced in the `corpus_apostrophe_test` directory;
+- The original corpus and results was kept in the `corpus_original` directory;
 - The `’` character was replaced by the `'` character in all the corpus files;
 - The data was re-tagged with Biber Tagger.
