@@ -6,14 +6,17 @@
 - Prepare Biber's dimensions output data in Excel format.
 
 ### Lessons Learned
+
 In most of the corpus files, contractions were not tagged correctly because they were indicated by the `’` character instead of the `'` character.
 
 #### Original text excerpt
+
 ```
 Excuse me. I’m Amy Farrah Fowler. You’re Sheldondon Cooper.
 ```
 
 #### Original tagged excerpt
+
 ```
 Excuse ^nn++++=Excuse
 me ^pp1o+pp1+++=me.
@@ -32,11 +35,13 @@ Cooper ^np++++=Cooper.
 ```
 
 #### Corrected text excerpt
+
 ```
 Excuse me. I'm Amy Farrah Fowler. You're Sheldondon Cooper.
 ```
 
 #### Corrected tagged excerpt
+
 ```
 Excuse ^nn++++=Excuse
 me ^pp1o+pp1+++=me.
@@ -55,7 +60,19 @@ Cooper ^np++++=Cooper.
 ```
 
 ### Corrective action
+
 - The issue was reproduced in the `corpus_apostrophe_test` directory;
 - The original corpus and results were kept in the `corpus_original` directory;
 - The `’` character was replaced by the `'` character in all the corpus files;
 - The data was re-tagged with Biber Tagger.
+
+## Phase 2 - Tagging with Biber Tagger
+
+- Tag the Bing Bang Theory TV series corpus;
+- Prepare Biber's dimensions output data in Excel format.
+
+### Lessons Learned
+
+It was reported that a few `curly inverted commas` were not replaced by the 
+
+In most of the corpus files, contractions were not tagged correctly because they were indicated by the `’` character instead of the `'` character.
