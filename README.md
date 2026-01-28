@@ -73,6 +73,14 @@ Cooper ^np++++=Cooper.
 
 ### Lessons Learned
 
-It was reported that a few `curly inverted commas` were not replaced by the 
+It was reported that a few `curly inverted commas` were not replaced by `straight quotes` in the corpus files. For instance:
 
-In most of the corpus files, contractions were not tagged correctly because they were indicated by the `’` character instead of the `'` character.
+```
+Shame. ‘Cause I have a real zinger about my titled uterus.
+```
+
+```
+Bernadette is with Priya and Leonard. Message received. Commence operation “Priya Wouldn't Wanna Be-ya.”
+```
+
+The issue was confirmed by comparing the new corpus data with the one that had been used in phase 1. Please refer to the [02_all_seasons_check_report.txt](cl_st1_ph1_marcia/corpus/02_all_seasons_check_report.txt) report for more details.
