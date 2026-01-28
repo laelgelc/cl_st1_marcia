@@ -66,10 +66,10 @@ Cooper ^np++++=Cooper.
 - The `’` character was replaced by the `'` character in all the corpus files;
 - The data was re-tagged with Biber Tagger.
 
-## Phase 2 - Tagging with Biber Tagger
+## Phase 2 - Reprocess Tagging with Biber Tagger
 
-- Tag the Bing Bang Theory TV series corpus;
-- Prepare Biber's dimensions output data in Excel format.
+- Tag the Bing Bang Theory TV series fixed corpus;
+- Prepare Biber's dimensions and variables output data in Excel format.
 
 ### Lessons Learned
 
