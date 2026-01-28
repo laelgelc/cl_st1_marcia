@@ -1,7 +1,7 @@
 all_seasons_check report
 
-Directory 1: /home/eyamrog/PycharmProjects/cl_st1_marcia/corpus/01_all_seasons_utf_8
-Directory 2: /home/eyamrog/PycharmProjects/cl_st1_marcia/corpus/01_all_seasons_utf_8_straight
+Directory 1: /home/eyamrog/PycharmProjects/cl_st1_marcia/cl_st1_ph1_marcia/corpus/01_all_seasons_utf_8
+Directory 2: /home/eyamrog/PycharmProjects/cl_st1_marcia/cl_st1_ph1_marcia/corpus/01_all_seasons_utf_8_straight
 
 Summary
 -------
