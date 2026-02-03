@@ -6,7 +6,7 @@ The programme performs the following tasks:
 2. Finds the corresponding text file in `Directory 2` (e.g. `Amy_Season_3.straight.txt`)
 3. Compares the two files to check if they are identical
 4. Reports the pairs that are not identical
-4. Confirms if each file in `Directory 1` has only one corresponding file in `Directory 2` and no leftovers are present in either directory
+5. Confirms if each file in `Directory 1` has only one corresponding file in `Directory 2` and no leftovers are present in either directory
 
 ## Input data
 
