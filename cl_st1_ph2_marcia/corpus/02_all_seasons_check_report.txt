@@ -1,0 +1,251 @@
+all_seasons_check report
+
+Directory 1: /home/eyamrog/PycharmProjects/cl_st1_marcia/cl_st1_ph2_marcia/corpus/../../cl_st1_ph1_marcia/corpus/01_all_seasons_utf_8
+Directory 2: /home/eyamrog/PycharmProjects/cl_st1_marcia/cl_st1_ph2_marcia/corpus/01_all_seasons_utf_8_straight
+
+Summary
+-------
+Directory 1 files (*.txt): 91
+Directory 2 files (*.straight.txt): 91
+Matched pairs: 14
+Mismatched pairs: 77
+Missing in Directory 2: 0
+Leftovers in Directory 2 (missing in Directory 1): 0
+
+Mismatched pairs (NOT identical)
+-------------------------------
+- Base name: Amy_Season_10
+  Dir1: Amy_Season_10.txt  size=36341  sha256=189b750eee805c7a4a28f99bfe29f2c9377c7a1e7a447366b009a13dbe5063b9
+  Dir2: Amy_Season_10.straight.txt  size=36340  sha256=69ee0315c56289c96a0be63f98f3251ad0e477b5d98330a1a8fd574a40e67b8e
+- Base name: Amy_Season_11
+  Dir1: Amy_Season_11.txt  size=39694  sha256=33ddef95daf30046146ef0fbf99a773b78471318995b7a33ac08dbbd61b2ba56
+  Dir2: Amy_Season_11.straight.txt  size=39694  sha256=5dc595cac79f0a8644ec24a4e47e84f0cf9f6be2570d340b05bb75b08edb47e7
+- Base name: Amy_Season_12
+  Dir1: Amy_Season_12.txt  size=33142  sha256=e02e4dd95661cfce35e79fa56658ec5fd63672c4f679c8c7de5b2f74d33caf78
+  Dir2: Amy_Season_12.straight.txt  size=33154  sha256=efce89456348004b987937a5d7016608f18e6f9da5e1279e8592c344dd39d91b
+- Base name: Amy_Season_3
+  Dir1: Amy_Season_3.txt  size=528  sha256=532f9f9c69c8167df55fec3cb9a55ab5fb99ed1cba0712145377367d39aa56f0
+  Dir2: Amy_Season_3.straight.txt  size=525  sha256=a2286f5720f838b080d44866e9708ff8abcb1d555f3b097978a81fedb633b3c1
+- Base name: Amy_Season_4
+  Dir1: Amy_Season_4.txt  size=27693  sha256=6221623705c4b956c29645e473cb231d2902d00a150fa047cfc7e7244c781785
+  Dir2: Amy_Season_4.straight.txt  size=27686  sha256=aafa99084b04e7af4f6a058d36c62790b1851f6df6ad6bb84cd7164050c36e1d
+- Base name: Amy_Season_5
+  Dir1: Amy_Season_5.txt  size=31377  sha256=dfaaafc25254cff35d8e93e7740c164fcde47329acb8472e4e16050e6215b576
+  Dir2: Amy_Season_5.straight.txt  size=31378  sha256=8dcb5868619e6e394544ad8403e6c1b87f147c1c6709095700352e4d9a4eec99
+- Base name: Amy_Season_7
+  Dir1: Amy_Season_7.txt  size=28380  sha256=94e74c6a75c2263aac5302868323801e50e2bd996974ab68779ee6531299fdba
+  Dir2: Amy_Season_7.straight.txt  size=28378  sha256=baf7e5e28a5e98a220bfdf97bf606e8d870481cfef5e37082a4b4d516e0bb751
+- Base name: Amy_Season_8
+  Dir1: Amy_Season_8.txt  size=28257  sha256=046f64c54bb78fe01baba7c436174884822d71d52c2cc131298f439ff6c41c58
+  Dir2: Amy_Season_8.straight.txt  size=28241  sha256=e35ae13a7f6ea1870c78d00af3d589c46fec6547f6ce078c0613675277238b6a
+- Base name: Amy_Season_9
+  Dir1: Amy_Season_9.txt  size=28034  sha256=580f099de43d1948ac1cd5e938f16f4f895d1e036e13adc7c73ca098b45462b2
+  Dir2: Amy_Season_9.straight.txt  size=28035  sha256=d041b1726be3baaf6f411cd2d0372e3b8711b41216d57c4ff18a6a59cc537f83
+- Base name: Bernadette_Season_10
+  Dir1: Bernadette_Season_10.txt  size=23312  sha256=907801661016a21c345c43e4b3d6791ad584e662dd147b82feae0a31209afc62
+  Dir2: Bernadette_Season_10.straight.txt  size=23312  sha256=75f60b314a122e7f0b0cea7dec6483ecff42f4b8a85ba4d4ab165e8fcd7cfdb1
+- Base name: Bernadette_Season_5
+  Dir1: Bernadette_Season_5.txt  size=17630  sha256=4a5ae85f886d4e944f9deec4e9073e6c47613fd1d0dc6e5474f6af6e12e9fd7f
+  Dir2: Bernadette_Season_5.straight.txt  size=17629  sha256=46182ab5bb6291eaedff72a2d4184c69c816c990b23a795a45acce1806212430
+- Base name: Bernadette_Season_6
+  Dir1: Bernadette_Season_6.txt  size=18515  sha256=f4bce75c02053960d6250f59fe3acd31f8140438a0737b782b38e54a1b09a2cf
+  Dir2: Bernadette_Season_6.straight.txt  size=18516  sha256=f59014092013ac289fe5d634594e437a20ea5f19f6f8cd252c2bbe7a3fc5bea7
+- Base name: Bernadette_Season_7
+  Dir1: Bernadette_Season_7.txt  size=20516  sha256=62e7dd297adf41680760059c40f6e8a3574b05e11e775696c46231f736a222e3
+  Dir2: Bernadette_Season_7.straight.txt  size=20507  sha256=9472de6685506b7696bf780be1db5927480f0e74552d9fd65a461f696faf5698
+- Base name: Bernadette_Season_8
+  Dir1: Bernadette_Season_8.txt  size=21779  sha256=73ea2790b3ddf94af349d5affca9e19dbac91bff992ea1bcb76cee90d6bc3e6c
+  Dir2: Bernadette_Season_8.straight.txt  size=21777  sha256=108090a560d79893c64f72f9c528edaf88bd8ea2564b56c39d13c43b110e5f98
+- Base name: Bernardette_Season_11
+  Dir1: Bernardette_Season_11.txt  size=22735  sha256=e0f31bf1a5a8b4182663e9c4984789dda9273f8f9481b572d91c9b5b44375834
+  Dir2: Bernardette_Season_11.straight.txt  size=22736  sha256=2a1b60e50780754166307761fb9aeec3b26ec4964aafe4123f35e1c122bfa751
+- Base name: Howard_Season_1
+  Dir1: Howard_Season_1.txt  size=24959  sha256=988fbaeeaed3fc04ebb8fde7bf3c3b0cd81329d56995a8ba8564c62944ead9dd
+  Dir2: Howard_Season_1.straight.txt  size=24949  sha256=3996c58d3569ce9d0205b7f00c665dc606e2c8e79807d1d907d27ca84450c4c6
+- Base name: Howard_Season_10
+  Dir1: Howard_Season_10.txt  size=31639  sha256=659f5a3ec2fbcf6ec87c5104dabc100acde9a4cf1f54a44800584cb2469b1955
+  Dir2: Howard_Season_10.straight.txt  size=31638  sha256=f5a7a1fcfc369b0f0438a5a792acb10e0410715aa7b16d3dab4645841382179e
+- Base name: Howard_Season_11
+  Dir1: Howard_Season_11.txt  size=34442  sha256=7e0b2b5e42d68ffce53df16d9dd0da5a0e0f644a0d97426681d445883c09529a
+  Dir2: Howard_Season_11.straight.txt  size=34443  sha256=0b11e9763defeaa0638b400404d9647017c031302e4f816ab5f4952930f3e308
+- Base name: Howard_Season_2
+  Dir1: Howard_Season_2.txt  size=38178  sha256=d9a0aaa47c868bc7e95a70be39ec0bd7ca00be45d0937c3f1882801033572c10
+  Dir2: Howard_Season_2.straight.txt  size=38149  sha256=d0fc1f4640b7bbba24a5f5867d6422110e3643e91291835c4868d179f49feebd
+- Base name: Howard_Season_3
+  Dir1: Howard_Season_3.txt  size=37994  sha256=c5288c2803a3582aa3f904fc856ab959123926a1cd4ff4d34a2d3633553493bd
+  Dir2: Howard_Season_3.straight.txt  size=37975  sha256=0eb30803c71b79dc2e95ccd83ef3a9859e7244d844229f22e2c5bfc59e83b583
+- Base name: Howard_Season_4
+  Dir1: Howard_Season_4.txt  size=34471  sha256=9735be40877ddbdfedb82c3ffd90d94ced1abe5a482c939ef310c7671efe300c
+  Dir2: Howard_Season_4.straight.txt  size=34472  sha256=786fda191133fa062c77ab1a89d00355b68463b1e6f4375438d2f51c74445e2f
+- Base name: Howard_Season_5
+  Dir1: Howard_Season_5.txt  size=36976  sha256=0c3f0fe542e7983babf53d139ac306e1be2bf229bdf155440b8da77936bb55d5
+  Dir2: Howard_Season_5.straight.txt  size=36975  sha256=b5ec0f909a0ab6b545c7af40278f82d640f62433c1974ce229bd7f01108f17c9
+- Base name: Howard_Season_6
+  Dir1: Howard_Season_6.txt  size=39853  sha256=1e65f4e749bb9c16d41904855c794115ef9cd0fd9544e43f2044ea4b10f6861c
+  Dir2: Howard_Season_6.straight.txt  size=39849  sha256=db980d4b3bee8b0ec6246541785351f91b53d57788629f173059c929955f1a18
+- Base name: Howard_Season_7
+  Dir1: Howard_Season_7.txt  size=33569  sha256=53a02cb6565d864788940bf5d265478347a57560a689273dc5a1e7feebc03373
+  Dir2: Howard_Season_7.straight.txt  size=33572  sha256=03d0cea6623927fed6a7760f3286e3d6099bbd0804cddff4733c3fc0cb8ee4ca
+- Base name: Howard_Season_8
+  Dir1: Howard_Season_8.txt  size=37090  sha256=91695b1cb4bb7529e0e596e2d0c9c6c106d0e6953049a5207335a1e986815482
+  Dir2: Howard_Season_8.straight.txt  size=37088  sha256=24abeb9a76f5701b971ca64d37d0a8f292e0a8a46effa4582935884dc98d79da
+- Base name: Howard_Season_9
+  Dir1: Howard_Season_9.txt  size=33529  sha256=54721578abc131eee3df8d821ed24a139ee7d6af3d9b16203b9e6eb7f2aa4b1a
+  Dir2: Howard_Season_9.straight.txt  size=33541  sha256=c5a19d2366ea6040fff1809c91f2c272556ae5b761117eed363c02f1eba1d4d8
+- Base name: Leonard_Season_1
+  Dir1: Leonard_Season_1.txt  size=61814  sha256=0bdf8dcc2bb596694509e97304cecfb5618b4d6e837960996d8219283933d1d0
+  Dir2: Leonard_Season_1.straight.txt  size=61781  sha256=c855081340e8e7b744297c970e9f7c09804a76c940741e67f88ac433afd78b1e
+- Base name: Leonard_Season_10
+  Dir1: Leonard_Season_10.txt  size=39808  sha256=14fb7d196476dff7714ebb91b49a662231c10de56b95f1e68362c4d7362a1ac0
+  Dir2: Leonard_Season_10.straight.txt  size=39807  sha256=bd3259a02e015eda3aed74d4770151970252deee6c93457ab82ce605db4baefa
+- Base name: Leonard_Season_12
+  Dir1: Leonard_Season_12.txt  size=43993  sha256=84692d0cac1e7f7881e10a109f64ce925b7d33170a2c8e4f2ff97c79e1281e8f
+  Dir2: Leonard_Season_12.straight.txt  size=43993  sha256=f86f4cd67fa42ea0809583111e1857dc4737599a4627f37a75cc201b615d8053
+- Base name: Leonard_Season_2
+  Dir1: Leonard_Season_2.txt  size=63566  sha256=d424072099ebf865cff2c03b3135af6c95d9f003191c21bff323dfea339c4dfe
+  Dir2: Leonard_Season_2.straight.txt  size=63549  sha256=a8c78751e20bf994e9107241f5f13b031708018666b9ea258741d9dbaae542e5
+- Base name: Leonard_Season_3
+  Dir1: Leonard_Season_3.txt  size=59930  sha256=5ad9d654fb33b181e22ed26047f7fec459ced7e08b7e2dae088a9d591dab0419
+  Dir2: Leonard_Season_3.straight.txt  size=59581  sha256=6bbe3d50a407db9886fd98e1532b2706dce8e17406fe7cdc659e645836054b58
+- Base name: Leonard_Season_4
+  Dir1: Leonard_Season_4.txt  size=52037  sha256=620c5d0dbefb6f2e923c75ff9fe219c3e4efe0316a08ddc72470d47d682730fb
+  Dir2: Leonard_Season_4.straight.txt  size=52045  sha256=02e5d07649faaec25054fb9b909b1be08b2103a0d933d69786004f70d43ea27b
+- Base name: Leonard_Season_5
+  Dir1: Leonard_Season_5.txt  size=49817  sha256=7f22466b132e14d8ba6b3b44e398baab334d8de8e5df4260158bffa421344f16
+  Dir2: Leonard_Season_5.straight.txt  size=49808  sha256=16d129ee86837b4d8548bb5761e9f527c2ffe60354c944a13a1368bc1ce21a63
+- Base name: Leonard_Season_6
+  Dir1: Leonard_Season_6.txt  size=44599  sha256=5952ad19a9f77b21adf1f97bffc81a40242d54f2cbf18a8afbb8dc7ddd055e98
+  Dir2: Leonard_Season_6.straight.txt  size=44593  sha256=0ec2d3fa3a09fb09e33d4a410656b029ca83fcd7a0559578c6e943e25e607e69
+- Base name: Leonard_Season_7
+  Dir1: Leonard_Season_7.txt  size=46099  sha256=b041b11ec0f95487a1e64c3c67e90315833c7d9e962d4a400c9e37ae3eaccc1f
+  Dir2: Leonard_Season_7.straight.txt  size=46106  sha256=114f9f97cbf71a87b3cab929661248ff0415d9d3a2cc34a36a85090d3136b04a
+- Base name: Leonard_Season_8
+  Dir1: Leonard_Season_8.txt  size=49659  sha256=6c4341965ffa20d402f0bcbf320fc2147e68de3f4cd8a541513a7e45902ffac8
+  Dir2: Leonard_Season_8.straight.txt  size=49664  sha256=7d3cceea85aab38e96d926e8341504822aab519310e7597957a278167d768e46
+- Base name: Leonard_Season_9
+  Dir1: Leonard_Season_9.txt  size=42530  sha256=f90dde1acf26aeff82b16cf322ec25e965aae7450de1a2ebf90c6b5a026d4636
+  Dir2: Leonard_Season_9.straight.txt  size=42532  sha256=137e8b0aafca9e1a2a50973625670ce972d27ea6073c0fc143ef189cc5a4bef4
+- Base name: Penny_Season_1
+  Dir1: Penny_Season_1.txt  size=35790  sha256=8c347c9945039ddc89e683ac76e8a135eb3db0e6219d7c389b5be2270d5c0b62
+  Dir2: Penny_Season_1.straight.txt  size=35762  sha256=e701212ed296d5bf2be895fb4fa51f2e0b4e0d778869a06ce8f294775634b789
+- Base name: Penny_Season_10
+  Dir1: Penny_Season_10.txt  size=35337  sha256=e095c95b2733565068e34dac4eb1b64db14ac5e31757d201e46372c97408969e
+  Dir2: Penny_Season_10.straight.txt  size=35338  sha256=1811db4a9b7498ec0f35c6a1e4d4db93a9ba3e066a7e9bd95c474c1657e63f88
+- Base name: Penny_Season_2
+  Dir1: Penny_Season_2.txt  size=47744  sha256=78750b27277497ffa5a4545e9b6f7eba5af070d7c490c32a380d301ac0331188
+  Dir2: Penny_Season_2.straight.txt  size=47641  sha256=764b465c6e7b45ee80bec60c9432e4f249ce9fdbbfe8cac930c76eea473e547d
+- Base name: Penny_Season_3
+  Dir1: Penny_Season_3.txt  size=41452  sha256=1f4462d09019eb2426ef3dea333db2929e08ba06fa590c11a93950f18db943b2
+  Dir2: Penny_Season_3.straight.txt  size=41452  sha256=c954f0d22743733c5fc9e6b8045693c693919ad14b1b51001a3a40f7726e5f1d
+- Base name: Penny_Season_4
+  Dir1: Penny_Season_4.txt  size=38563  sha256=45301d384031eec000737ff109818f36b6f7a477609c7d63b45a57f5530ebc33
+  Dir2: Penny_Season_4.straight.txt  size=38549  sha256=29ed559d81d50bfd26f76506c41910c73a30e39e022d00b0491f75a7d22f3291
+- Base name: Penny_Season_5
+  Dir1: Penny_Season_5.txt  size=37540  sha256=e1c2c7e3cdaa02572362672f220c917bb1a017ba19db60382c2d5e8c1c74c475
+  Dir2: Penny_Season_5.straight.txt  size=37540  sha256=575036f7c12ca9a5dca6ab02f2b7fc8a7d52645d398e735804a03b209251c3cf
+- Base name: Penny_Season_6
+  Dir1: Penny_Season_6.txt  size=36212  sha256=b0997e9965ef3d3c560c9160369fc16420288b605fbda34f0347227a5fb383fa
+  Dir2: Penny_Season_6.straight.txt  size=36200  sha256=9e57942a2b82b620f1d03b0713063de55fafc6108876061a566738eff21c89e7
+- Base name: Penny_Season_7
+  Dir1: Penny_Season_7.txt  size=42648  sha256=c1b5ae61e6608a11677ab508c4a14ed2dddcf6909cf0cd928ae17e9b02a400e9
+  Dir2: Penny_Season_7.straight.txt  size=42642  sha256=cd819d8bf31f3207bd32a6c2e0a349f64693718b5e5fe5f8316515e87854eb65
+- Base name: Penny_Season_8
+  Dir1: Penny_Season_8.txt  size=40469  sha256=3f8c550db7d2f4c49fc13e12b78a0226e60fa9f91dc20ba5af36d9802dff9528
+  Dir2: Penny_Season_8.straight.txt  size=40460  sha256=c61bbca2684ce8cef9479f677ac3f5c114559ef96cda0037a937621fb8fce1de
+- Base name: Penny_Season_9
+  Dir1: Penny_Season_9.txt  size=37107  sha256=651c5c2c5c3487fe00d769a381f74e29a8a550915cdecd03a9061c4d370daff6
+  Dir2: Penny_Season_9.straight.txt  size=37114  sha256=8a9cf45fbf5d6f9f705e7e606e026190801d93f45359b6c14e53aaa2a7f2707a
+- Base name: Raj_Season_1
+  Dir1: Raj_Season_1.txt  size=14509  sha256=62df26f7ffcb8f49faa8217232fe2b0cfda1810251b0ee51c2d53db8d796eae4
+  Dir2: Raj_Season_1.straight.txt  size=14507  sha256=d5b656f7871fd63c8be5dbfed70ad45a097e49bfce4fe8dc3d2eb05a7bc5860e
+- Base name: Raj_Season_2
+  Dir1: Raj_Season_2.txt  size=20263  sha256=6b6b34b231e24ba0e001f13ae90241c156615838fe0a38e7040569a0da2510bf
+  Dir2: Raj_Season_2.straight.txt  size=20240  sha256=fc322c0007c59db9ad5d59a6d26a5380e8e257ea3481c1978d1816aa6e434a0d
+- Base name: Raj_Season_3
+  Dir1: Raj_Season_3.txt  size=32507  sha256=35c0d4de852f2f40d5998ac69f65022c6e08b2f25382ca0534128b54db7d0838
+  Dir2: Raj_Season_3.straight.txt  size=32343  sha256=0b64d5e898bb8838fbf60e1197de914869432aaf75c3f40e7fbb3b095e5946aa
+- Base name: Raj_Season_4
+  Dir1: Raj_Season_4.txt  size=28287  sha256=f93039ced69915c9e91c29066644450b605101393d8e93dd2904b1ff96145521
+  Dir2: Raj_Season_4.straight.txt  size=28285  sha256=1bb879c56a91a71b841f91120a3dd16562e7b984d3ecfa6b2ac1b119713992a4
+- Base name: Raj_Season_5
+  Dir1: Raj_Season_5.txt  size=25359  sha256=6ee57d1c64dc8bdf13bb9d76fe163d7fbf502375544aaf45c01401afb654e83d
+  Dir2: Raj_Season_5.straight.txt  size=25345  sha256=44fb0854d94f3470d1e1772526bcbf9934f1ef787b54b4df9662784e4909409e
+- Base name: Raj_Season_6
+  Dir1: Raj_Season_6.txt  size=39282  sha256=c8bbd8e02a977d6fbdc16c20c8584ca429ea4dfdd54ba0484624154a689b8bb0
+  Dir2: Raj_Season_6.straight.txt  size=39278  sha256=ce19a45f1155e85d72ad93c4f3d0189d71f98925446df8d66df328bfeb880bb0
+- Base name: Raj_Season_7
+  Dir1: Raj_Season_7.txt  size=39547  sha256=fac90431d27ac3e5ad8f6069da9b3f79f40da2fe1265881543198ba2a27a38a2
+  Dir2: Raj_Season_7.straight.txt  size=39553  sha256=236d30a16a6ab877da1f11c2ff1a929bacb834ba7d4920e14bdea04f4cecc315
+- Base name: Raj_Season_8
+  Dir1: Raj_Season_8.txt  size=34330  sha256=23ee64345b36569615a0c0111e496e7054d10cd71169e39b8c509c2a32514246
+  Dir2: Raj_Season_8.straight.txt  size=34319  sha256=a30c05d6bfa5c85d922c229c98c33575fab95ab73ba51e1dbe2e05c516c50fe8
+- Base name: Raj_Season_9
+  Dir1: Raj_Season_9.txt  size=30554  sha256=abf3a49da5d655724a370e423929fef2ae6447cdb26222ba0fe7912dee7b5b9c
+  Dir2: Raj_Season_9.straight.txt  size=30555  sha256=0361825401d6c15374bc29ccc8b82985048738b047809b2c3150f3afb07165a6
+- Base name: Sheldon_Season_1
+  Dir1: Sheldon_Season_1.txt  size=83549  sha256=7cd464c8f9331690109208b009e28cae4215bef7840557e6012034edc7da042b
+  Dir2: Sheldon_Season_1.straight.txt  size=83501  sha256=9bc2713f232a1dedd0e266d7819d12381490bc5d1caaa4c5322ce96c37391bbd
+- Base name: Sheldon_Season_10
+  Dir1: Sheldon_Season_10.txt  size=85888  sha256=e9f055a055cf8c0145301b18081bff29d0861fd492be084d5278625052d5ece7
+  Dir2: Sheldon_Season_10.straight.txt  size=85894  sha256=fa209116a97845d35de4cca44bdcb5432addd524ebc1475c9aea64e29e033ab5
+- Base name: Sheldon_Season_11
+  Dir1: Sheldon_Season_11.txt  size=89109  sha256=1fb4d6d612b0a777d73e99548d99abecb5811e4675b573cbd10c2c7f49f7b1ca
+  Dir2: Sheldon_Season_11.straight.txt  size=89110  sha256=21ce1c7e4c93794523f7750fc6f441d7d183b786baae86927bf2812057e844c9
+- Base name: Sheldon_Season_2
+  Dir1: Sheldon_Season_2.txt  size=114421  sha256=6c613455e5b66455bd460d7d75a9f6da206c7bb364205d65635d09f39ccc740b
+  Dir2: Sheldon_Season_2.straight.txt  size=114167  sha256=4ec03ca0fe658bd75663425174d194cb9c701be7b47a8385b5cc802b8daedeb1
+- Base name: Sheldon_Season_3
+  Dir1: Sheldon_Season_3.txt  size=114878  sha256=498e90797a10e8970fbd4ad5f1cc9d9bc61c04ea2b6d178851196daa87d5ab17
+  Dir2: Sheldon_Season_3.straight.txt  size=114354  sha256=4476d5b78168f6260870a0e3d3f59895793971fd51da1e7eaf656bef10e377f0
+- Base name: Sheldon_Season_4
+  Dir1: Sheldon_Season_4.txt  size=109664  sha256=bbe802674afcb36b9fb123aa2661ab9a61a9fd9794dd78bd589d0ab03551cc73
+  Dir2: Sheldon_Season_4.straight.txt  size=109647  sha256=0e8e8a107b8456666b0c3bc4af489f80e1fb31535d59bd68384a933790cbc1d9
+- Base name: Sheldon_Season_5
+  Dir1: Sheldon_Season_5.txt  size=94266  sha256=424a3f9efd7df4f6f1cd7e873b294cc2bd3f9b038ff2a1ef72c5fb1071489a46
+  Dir2: Sheldon_Season_5.straight.txt  size=94259  sha256=bc40a42091f89afe35ad195b08b3c7c47ae643b474a87927af4d0dd650b8bf77
+- Base name: Sheldon_Season_6
+  Dir1: Sheldon_Season_6.txt  size=88772  sha256=72f42d5d776d644a2e13d5f171956ee82568a0e3cddff67ffc2e3d7a53e7576d
+  Dir2: Sheldon_Season_6.straight.txt  size=88768  sha256=682f359be5f62643f442655a1fcd316fcafbd40534b37f32ffba344144f5baaa
+- Base name: Sheldon_Season_7
+  Dir1: Sheldon_Season_7.txt  size=86781  sha256=ae76093c69696dfc1499811a52f80d0a476b104048ccc54baeed4bf23f08c5ae
+  Dir2: Sheldon_Season_7.straight.txt  size=86781  sha256=74fd535fe3ad92a5c341246eaa28b28ef294e912c87a16876c2ed701672272a0
+- Base name: Sheldon_Season_8
+  Dir1: Sheldon_Season_8.txt  size=93902  sha256=ab8dcba2a9af582e86bbaaf189394fbaa9eb09d34297447267b814f3d07de5b2
+  Dir2: Sheldon_Season_8.straight.txt  size=93898  sha256=f5488f9ef6ad791598edda6785edf6e3f98c941dbfd647f24a9265d15c90073d
+- Base name: Sheldon_Season_9
+  Dir1: Sheldon_Season_9.txt  size=91679  sha256=7b805a67f93b6c1de48e945e1711607370f7f6e2f1e71de780c149d80e210397
+  Dir2: Sheldon_Season_9.straight.txt  size=91683  sha256=da3b09e40bf16b0298b32e8e2596be4643d8b593695fd9013aa208b23ba680b3
+- Base name: Stuart_Season_10
+  Dir1: Stuart_Season_10.txt  size=9528  sha256=6fb9c5040fe303e5b2b5c7a6eccfd04f28fa94cd82b4a3161efe0c48b20187a0
+  Dir2: Stuart_Season_10.straight.txt  size=9529  sha256=05c1ee6cc2183ad8f4a43c20b5e956b6c71fb66ad7f8d00d6044bc8fc27d73af
+- Base name: Stuart_Season_11
+  Dir1: Stuart_Season_11.txt  size=7886  sha256=c33563e6542301ad0149fd10db69f915878cd54ce9018008fb0d098c083e0b9e
+  Dir2: Stuart_Season_11.straight.txt  size=7890  sha256=21b7e68a4b898bf1fbdba5dfb1c622687e6d8997f6f1ad18b7f99a68bf9344ee
+- Base name: Stuart_Season_12
+  Dir1: Stuart_Season_12.txt  size=8124  sha256=578d176496ab84bc4a741c3fa899df5290a3a12238bf87e622f60b39d8745b43
+  Dir2: Stuart_Season_12.straight.txt  size=8124  sha256=73fde031f5422f8f279c0d80f9366197741b4a9626dfbf1cf7cb86434c5e3dad
+- Base name: Stuart_Season_2
+  Dir1: Stuart_Season_2.txt  size=3021  sha256=ea45418e546e5d0986470b173f3c88a2d5150224a16fae0c5fed1dfd7701641e
+  Dir2: Stuart_Season_2.straight.txt  size=3006  sha256=8c270b8496ca02052be3a70a2dd131bf8afd98da1cf6110e7a0bf32ec756a85e
+- Base name: Stuart_Season_4
+  Dir1: Stuart_Season_4.txt  size=1202  sha256=e52fd9b7729941ab46c809766083257473893fb6cbba2f7ce5eaa58ca6824b90
+  Dir2: Stuart_Season_4.straight.txt  size=1201  sha256=211e6e625d1cf2d92dab213e75286db9a6abdb95a430b9fc9801a958c73122e6
+- Base name: Stuart_Season_5
+  Dir1: Stuart_Season_5.txt  size=3577  sha256=5c64142a9a964a19cae7dd0f4f1e52f553bf32260655035e5e5779d8b2f13286
+  Dir2: Stuart_Season_5.straight.txt  size=3575  sha256=1093be1673a98ca5bf8defdbb7c97694479cb4dc3928a987166cb9f3eded2795
+- Base name: Stuart_Season_6
+  Dir1: Stuart_Season_6.txt  size=4147  sha256=82cc1e66cc2c9d1aa0b05d6ba8a4815e240fff4de93c8febc0b41677d1aa5ac8
+  Dir2: Stuart_Season_6.straight.txt  size=4145  sha256=bf8e968bfeb2a2ddfcd287c100dddef61fc233f25b2ddae683d62882aaa9612e
+- Base name: Stuart_Season_7
+  Dir1: Stuart_Season_7.txt  size=5078  sha256=f26946c8b01fee49c324bbe8b611468ff2afd44e17c9b09ab2f200a5bade2e3a
+  Dir2: Stuart_Season_7.straight.txt  size=5077  sha256=43146cbb96501ed2ccc5462b04ca8d00caba10b5f492f7aaeda6c73fbba2ee75
+- Base name: Stuart_Season_8
+  Dir1: Stuart_Season_8.txt  size=4228  sha256=82dc8ed10b350b7bfae3e99433e44b4d8940a2bc3436a9c2e2fbcd7ad9f3b50a
+  Dir2: Stuart_Season_8.straight.txt  size=4220  sha256=ae37ad3c934d5bbf884317350584d49decdc2f1ba2101540b7bdd6b9923b12b7
+- Base name: Stuart_Season_9
+  Dir1: Stuart_Season_9.txt  size=6474  sha256=652d55f2f7691e4719db616d2c2aebd6b4db80b88baea45969a2e3187327be3a
+  Dir2: Stuart_Season_9.straight.txt  size=6476  sha256=7e0c75fe740bb797ebf68161f88df4623c5117cf2de3322dc82cc9b98bdd254c
+
+Result
+------
+NOT OK: See sections above for mismatches and/or missing/leftover files.

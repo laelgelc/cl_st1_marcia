@@ -73,7 +73,7 @@ Cooper ^np++++=Cooper.
 
 ### Lessons Learned
 
-It was reported that a few `curly inverted commas` were not replaced by `straight quotes` in the corpus files. For instance:
+It was reported that a few `curly inverted commas` were not replaced by `straight quotes` in the corpus files. For instance, comparing `Amy_Season_4.txt` with `Amy_Season_4_straight.txt`:
 
 ```
 Shame. ‘Cause I have a real zinger about my titled uterus.
@@ -84,3 +84,15 @@ Bernadette is with Priya and Leonard. Message received. Commence operation “Pr
 ```
 
 The issue was confirmed by comparing the new corpus data with the one that had been used in phase 1. Please refer to the [02_all_seasons_check_report.txt](cl_st1_ph1_marcia/corpus/02_all_seasons_check_report.txt) report for more details.
+
+This check revealed that constructions like `‘Cause` should not have been in the corpus. As a consequence, the corpus was revised. Now, comparing `Amy_Season_4.txt` with `Amy_Season_4_straight.txt` again:
+
+```
+Shame. Because I have a real zinger about my titled uterus.
+```
+
+```
+Bernadette is with Priya and Leonard. Message received. Commence operation "Priya Wouldn't Wanna Be-ya."
+```
+
+Additionally, no occurrences of `curly inverted commas` (`‘` or `’` or `“` or `”`) were found in the corpus files. Please refer to the [02_all_seasons_check_report.txt](cl_st1_ph2_marcia/corpus/02_all_seasons_check_report.txt) report for more details.

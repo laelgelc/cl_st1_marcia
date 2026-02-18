@@ -6,7 +6,7 @@ from pathlib import Path
 
 
 #DIR_1_NAME = "01_all_seasons_utf_8"
-DIR_1_NAME = "cl_st1_ph1_marcia/corpus/01_all_seasons_utf_8"
+DIR_1_NAME = "../../cl_st1_ph1_marcia/corpus/01_all_seasons_utf_8"
 DIR_2_NAME = "01_all_seasons_utf_8_straight"
 REPORT_NAME = "02_all_seasons_check_report.txt"
 
