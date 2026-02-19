@@ -4,29 +4,23 @@ CODES FOR COUNTS IN ETS PROGRAM "TAG COUNT" (Lx features + Stance
 Markers + Semantic Categories of Nouns, Verbs,and Adjectives) AND
 OUTPUTFILE WRITEOUT (Normed Counts 🡪 Output File 1) Line \#
 
-+:---:+:---:+:---:+:---:+---------+---------+---------+---------+---------+---------+---------+-------+----------+--------+--------+
-| Filaname              | Mode TextType Disc SubDisc Level Univ Interact Loc Size             | Other | Type/Tkn | WrdLen | WrdCnt |
-+-----+-----+-----+-----+---------+---------+---------+---------+---------+---------+---------+-------+----------+--------+--------+
-| 1   | 2   | 3   | 4   | 5       | 6       | 7       | 8       | 9       | 10      | 11      | 12    | 13       | 14     | 15     |
-+-----+-----+-----+-----+---------+---------+---------+---------+---------+---------+---------+-------+----------+--------+--------+
-| 16  | 17  | 18  | 19  | 20      | 21      | 22      | 23      | 24      | 25      | 26      | 27    | 28       | 29     | 30     |
-+-----+-----+-----+-----+---------+---------+---------+---------+---------+---------+---------+-------+----------+--------+--------+
-| 31  | 32  | 33  | 34  | 35      | 36      | 37      | 38      | 39      | 40      | 41      | 42    | 43       | 44     | 45     |
-+-----+-----+-----+-----+---------+---------+---------+---------+---------+---------+---------+-------+----------+--------+--------+
-| 46  | 47  | 48  | 49  | 50      | 51      | 52      | 53      | 54      | 55      | 56      | 57    | 58       | 59     | 60     |
-+-----+-----+-----+-----+---------+---------+---------+---------+---------+---------+---------+-------+----------+--------+--------+
-| 61  | 62  | 63  | 64  | 65      | 66      | 67      | 68      | 69      | 70      | 71      | 72    | 73       | 74     | 75     |
-+-----+-----+-----+-----+---------+---------+---------+---------+---------+---------+---------+-------+----------+--------+--------+
-| 100 | 101 | 102 | 103 | 104     | 105     | 106     | 107     | 108     | 109     | 110     | 111   | 112      | 113    | 114    |
-+-----+-----+-----+-----+---------+---------+---------+---------+---------+---------+---------+-------+----------+--------+--------+
-| 115 | 116 | 117 | 118 | 119     | 120     | 121     | 122     | 123     | 124     | 125     | 126   | 127      | 128    | 129    |
-+-----+-----+-----+-----+---------+---------+---------+---------+---------+---------+---------+-------+----------+--------+--------+
-| 130 | 131 | 132 | 133 | 134     | 135     | 136     | 137     | 138     | 139     | 140     | 141   | 142      | 143    | 144    |
-+-----+-----+-----+-----+---------+---------+---------+---------+---------+---------+---------+-------+----------+--------+--------+
-| 151 | 152 | 153 | 154 | 155     | 156     | 157     | 158     | 159     | 160     | 161     | 162   | 163      | 164    | 165    |
-+-----+-----+-----+-----+---------+---------+---------+---------+---------+---------+---------+-------+----------+--------+--------+
-| 166 | 167 | 168 | 169 | 170     | 171     | 172     | 173     | 174     | 175     | 176     | 177   | 178      | 179    | 180    |
-+-----+-----+-----+-----+---------+---------+---------+---------+---------+---------+---------+-------+----------+--------+--------+
+Mode TextType Disc SubDisc Level Univ Interact Loc Size Other
+
+|     |       |     |       |     |       |     |       |     |       |      |          |          |        |        |
+|-----|-------|-----|-------|-----|-------|-----|-------|-----|-------|------|----------|----------|--------|--------|
+|     |       |     |       |     |       |     |       |     |       |      | Filename | Type/Tkn | WrdLen | WrdCnt |
+| 1   | 2     | 3   | 4     | 5   | 6     | 7   | 8     | 9   | 10    | 11   | 12       | 13       | 14     | 15     |
+| 16  | 17    | 18  | 19    | 20  | 21    | 22  | 23    | 24  | 25    | 26   | 27       | 28       | 29     | 30     |
+| 31  | 32    | 33  | 34    | 35  | 36    | 37  | 38    | 39  | 40    | 41   | 42       | 43       | 44     | 45     |
+| 46  | 47    | 48  | 49    | 50  | 51    | 52  | 53    | 54  | 55    | 56   | 57       | 58       | 59     | 60     |
+| 61  | 62    | 63  | 64    | 65  | 66    | 67  | 68    | 69  | 70    | 71   | 72       | 73       | 74     | 75     |
+| 100 | 101   | 102 | 103   | 104 | 105   | 106 | 107   | 108 | 109   | 110  | 111      | 112      | 113    | 114    |
+| 115 | 116   | 117 | 118   | 119 | 120   | 121 | 122   | 123 | 124   | 125  | 126      | 127      | 128    | 129    |
+| 130 | 131   | 132 | 133   | 134 | 135   | 136 | 137   | 138 | 139   | 140  | 141      | 142      | 143    | 144    |
+| 151 | 152   | 153 | 154   | 155 | 156   | 157 | 158   | 159 | 160   | 161  | 162      | 163      | 164    | 165    |
+| 166 | 167   | 168 | 169   | 170 | 171   | 172 | 173   | 174 | 175   | 176  | 177      | 178      | 179    | 180    |
+|     | Dim_1 |     | Dim_2 |     | Dim_3 |     | Dim_4 |     | Dim_5 | NA_1 | NA_2     | NA_3     | NA_4   | NA_5   |
+
 
 Disc = Discipline Interact= Interactivity Loc=Location Univ = University
 Other= Other Written (catalogues, brochures, handouts) Tkn=Token Wrdlen
@@ -34,7 +28,9 @@ Other= Other Written (catalogues, brochures, handouts) Tkn=Token Wrdlen
 
 {Positive Dimension 1}
 
-Count 1 = Private Verbs (e.g. believe, feel, think)
+Count
+
+1 = Private Verbs (e.g. believe, feel, think)
 
 2 = 'That' Deletion
 
@@ -78,7 +74,9 @@ Count 1 = Private Verbs (e.g. believe, feel, think)
 
 {Negative Dimension 1}
 
-Count 22 = Noun
+Count
+
+22 = Noun
 
 23 = Preposition
 
@@ -116,7 +114,9 @@ with prepositional fronting ('pied piping')
 
 {Dimension 4}
 
-Count 37 = Infinitive Verb
+Count
+
+37 = Infinitive Verb
 
 38 = Modal of prediction (will, would, shall)
 
@@ -130,7 +130,9 @@ Count 37 = Infinitive Verb
 
 {Dimension 5}
 
-Count 43 = Adverbial -- conjuncts (e.g. however, therefore, thus)
+Count
+
+43 = Adverbial -- conjuncts (e.g. however, therefore, thus)
 
 44 = Agentless passive verb
 
@@ -142,13 +144,17 @@ Count 43 = Adverbial -- conjuncts (e.g. however, therefore, thus)
 
 (Other counts}
 
-Count 48 = 'That'- complement clause controlled by verb
+Count
+
+48 = 'That'- complement clause controlled by verb
 
 49 = Adverb -- Downtoner (e.g. nearly, only, merely)
 
 50 = Predicative Adjective
 
-Count 51 = All modals
+Count
+
+51 = All modals
 
 52 = All conjunctions
 
@@ -185,7 +191,9 @@ counts do not include all instances\]
 
 {controlled by verbs}
 
-Count 103 = 'That' complement clause controlled by non-factive verb
+Count
+
+103 = 'That' complement clause controlled by non-factive verb
 
 104 = 'That' complement clause controlled by attitudinal verb
 
@@ -195,7 +203,9 @@ Count 103 = 'That' complement clause controlled by non-factive verb
 
 {controlled by adjectives}
 
-Count 107 = 'That' complement cl. controlled by attitudinal adjective
+Count
+
+107 = 'That' complement cl. controlled by attitudinal adjective
 
 108 = 'That' complement clause controlled by factive adjective
 
@@ -203,7 +213,9 @@ Count 107 = 'That' complement cl. controlled by attitudinal adjective
 
 {controlled by nouns}
 
-Count 110 = 'That' complement clause controlled by non-factive noun
+Count
+
+110 = 'That' complement clause controlled by non-factive noun
 
 111 = 'That' complement clause controlled by attitudinal noun
 
@@ -215,7 +227,9 @@ Count 110 = 'That' complement clause controlled by non-factive noun
 
 {controlled by verbs}
 
-Count 114 = 'To' complement clauses controlled by Speech Act verbs
+Count
+
+114 = 'To' complement clauses controlled by Speech Act verbs
 
 115 = 'To' complement clauses controlled by verbs of cognition
 
@@ -233,7 +247,9 @@ Count 114 = 'To' complement clauses controlled by Speech Act verbs
 
 {controlled by adjectives\]
 
-Count 119 = 'To' complement cl. controlled by adjectives of certainty
+Count
+
+119 = 'To' complement cl. controlled by adjectives of certainty
 
 120 = 'To' complement cl. contr. by adj. of ability / willingness
 
@@ -245,11 +261,15 @@ Count 119 = 'To' complement cl. controlled by adjectives of certainty
 
 STANCE MARKERS (cont.)
 
-Count 124 = 'To' complement cl. controlled by stance nouns
+Count
+
+124 = 'To' complement cl. controlled by stance nouns
 
 {Common Stance Adverbs -- see LGSWE}
 
-Count 125 = Non-factive adverbs
+Count
+
+125 = Non-factive adverbs
 
 126 = Attitudinal adverbs
 
@@ -259,7 +279,9 @@ Count 125 = Non-factive adverbs
 
 {combined Counts}
 
-Count 130 = Sum stance'that' comp.clauses controlled by vbs
+Count
+
+130 = Sum stance'that' comp.clauses controlled by vbs
 
 131 = Sum stance'that' comp.clauses controlled by adjs
 
@@ -279,7 +301,9 @@ SEMANTIC CATEGORIES OF SOME NOUNS, VERBS, AND ADJECTIVES
 
 {Phrasal Verbs}
 
-Count 151 = Activity -- Intransitive
+Count
+
+151 = Activity -- Intransitive
 
 152 = Activity -- Transitive
 
@@ -295,7 +319,9 @@ Count 151 = Activity -- Intransitive
 
 {Nouns}
 
-Count 158 = Animate
+Count
+
+158 = Animate
 
 159 = Process
 
@@ -319,7 +345,9 @@ SEMANTIC CATEGORIES OF SOME NOUNs, VERBS, AND ADJECTIVES (cont.)
 
 {Attributive Adjectives}
 
-Count 167 = Size
+Count
+
+167 = Size
 
 168 = Time
 
@@ -333,7 +361,9 @@ Count 167 = Size
 
 {Verbs}
 
-Count 173 = Activity
+Count
+
+173 = Activity
 
 174 = Communication
 
@@ -351,7 +381,9 @@ Count 173 = Activity
 
 {only in lxmdxompare code, not in tag count pgm}
 
-Count 181 = Activity Verbs -- Transitive and Instransititve
+Count
+
+181 = Activity Verbs -- Transitive and Instransititve
 
 182 = Abstract Nouns - Includes 'Process', 'Cognitive' and
 
