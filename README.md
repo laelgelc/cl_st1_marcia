@@ -96,3 +96,7 @@ Bernadette is with Priya and Leonard. Message received. Commence operation "Priy
 ```
 
 Additionally, no occurrences of `curly inverted commas` (`‘` or `’` or `“` or `”`) were found in the corpus files. Please refer to the [02_all_seasons_check_report.txt](cl_st1_ph2_marcia/corpus/02_all_seasons_check_report.txt) report for more details.
+
+### Alternative reference for `sas_to_excel` tool
+
+Please refer to the [sas_to_excel.sh](sas_to_excel_reference/sas_to_excel.sh) shell script for more details.
